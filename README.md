@@ -38,12 +38,7 @@ For Example : aryasoni98.py or aryasoni98.java or aryasoni98.cpp etc...
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b <username>
-```
-For example:
-
-```
-git checkout -b aryasoni98
+git checkout -b contribution
 ```
 
 ## Make necessary changes and commit those changes
@@ -69,7 +64,5 @@ replacing `<file-name>` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin contribution
 ```
-
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
