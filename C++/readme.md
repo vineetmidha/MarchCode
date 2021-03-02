@@ -1,1 +1,1 @@
-Write a program to check whether a number is palindrome or not .
+1. Write a program to check whether a number is palindrome or not .
