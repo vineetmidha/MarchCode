@@ -15,4 +15,5 @@ int main()
     else
         cout<<"Not Divisible";
 
+    return 0;
 }
